@@ -1,2 +1,2 @@
 # Corizo_intership
-Corizo intership miner project on Stock Price Prediction using python
+Corizo intership miner & major project using python
